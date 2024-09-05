@@ -1,4 +1,3 @@
-# many_to_many.py
 
 class Author:
     def __init__(self, name):
